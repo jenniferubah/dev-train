@@ -1,4 +1,4 @@
 ---
-title: Welcome to my tech train blog
+title: Welcome to my blog
 ---
 
